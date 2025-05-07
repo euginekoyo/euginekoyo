@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in **full-stack development, machine learning, and 3D modeling.**
-- 🌱 I’m currently learning **FastAPI, MongoDB, Flask, Spring Boot, and Blender.**
+- 🌱 I’m currently learning **, React-Native and  Flask, .**
 - 💞️ I’m looking to collaborate on **React, Express, and AI-related projects.**
 - 📫 How to reach me: **euginekoyo003@gmail.com**
 - 😄 Pronouns: **He/Him**
