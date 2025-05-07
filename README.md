@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @euginekoyo
+# 👋 Hi, I’m eugine koyo
 
 ## About Me
 - 👀 I’m interested in **full-stack development, machine learning, and 3D modeling.**
