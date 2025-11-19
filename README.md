@@ -1,4 +1,4 @@
-# 👋 Hi, I’m eugine koyo
+# 👋 Hi, I’m Eugine Koyo
 
 ## About Me
 - 👀 I’m interested in **full-stack development, machine learning, and AI Intergration and Automation.**
